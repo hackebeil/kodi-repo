@@ -1,0 +1,92 @@
+v0.63
+----------------------
+Minor changes to the SC2Casts website called for a bugfix.
+
+v0.62
+----------------------
+First version distributed via its own repository for testing.
+
+v0.6
+----------------------
+- Complete rework by hackebeil. Thanks to the original authors of the plugin (Kristoffer Petersson, Phek, G Nyman, Bsdfish) and all other contributors for their hard work.
+- Source now includes parts of the twitch plugin to allow twitch videos to be played with a start offset. Thanks to StateOfTheArt and ccaspers and all the other contributors for their hard work.
+
+- All old features are repaired.
+- New features:
+--- Twitch support
+--- Browse players
+--- Various context menu option, e.g., Queue all items of a series, Go to players' games, or Go to casters' games
+--- Optional colors
+--- Parsing about 10x faster
+--- Automatically marks watched series
+--- Fanart and logo
+
+
+v0.4.8
+----------------------
+- Work with the new source format of sc2casts page
+- Single game youtube videos should work now as well
+
+v0.4.7
+----------------------
+- Fix for new 'embed' Youtube link
+- Cleaned up code (retiman)
+
+v0.4.6
+----------------------
+- Changed backend to use the youtube plugin to work around youtube issues.
+
+v0.4.5
+----------------------
+- Fixed video path for some videos according to Phek's instructions http://forum.xbmc.org/showthread.php?tid=98094&page=3
+
+v0.4.4
+----------------------
+- Updated some code due to changes on Youtube
+
+v0.4.3
+----------------------
+- Updated the code
+
+v0.4.2
+----------------------
+- Updated URL:s in sc2casts.py
+
+v0.4.1
+----------------------
+- Added strings to strings.xml
+
+v0.4.0
+----------------------
+- Version 0.4.0 is now uploaded.
+- Submitted to the official repo
+- Updated the "browse" menu and added a "search" function
+
+v0.3.0
+----------------------
+- Version 0.3.0 is now uploaded and ready for testing.
+- Made some changes in the codes structure
+
+v0.2.3
+----------------------
+- You can now configure how your gametitles should look like under "Addon Settings"
+
+v0.2.2
+----------------------
+- Fixed so that all videos now shows even if they are divaded in 2 or more parts.
+- Added "browse casts" in the root menu
+
+v0.2.1
+----------------------
+- Added an icon + fanart
+- the titles now shows ex. "(Best of 5) - [ZvP]....."
+
+v0.2.0
+----------------------
+- New version of the SC2Casts plugin with these features:		
+	- Latest casts		
+	- Top casts in: all time/month/week/24h
+
+v0.1 
+----------------------
+- Test version to make sure everything is working
